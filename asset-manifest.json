@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/even_odd/static/css/main.1368f5e4.css",
+    "main.js": "/even_odd/static/js/main.aecd0bf7.js",
+    "static/js/453.ed3810f9.chunk.js": "/even_odd/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/even_odd/index.html",
+    "main.1368f5e4.css.map": "/even_odd/static/css/main.1368f5e4.css.map",
+    "main.aecd0bf7.js.map": "/even_odd/static/js/main.aecd0bf7.js.map",
+    "453.ed3810f9.chunk.js.map": "/even_odd/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1368f5e4.css",
+    "static/js/main.aecd0bf7.js"
+  ]
+}
